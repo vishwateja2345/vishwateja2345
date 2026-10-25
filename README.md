@@ -67,8 +67,8 @@ Hi 👋, I'm Vishwa Teja
 
 # 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwateja231&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwateja231&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwateja2345&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwateja2345&theme=tokyonight" height="180" />
 </p>
 
 
@@ -86,7 +86,7 @@ Hi 👋, I'm Vishwa Teja
 </p>
 
 
-[![](https://visitcount.itsvg.in/api?id=vishwateja231&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vishwateja2345&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="footer line"/>
   <b>🌟 Thanks for stopping by — let's build something amazing! 🌟</b>
